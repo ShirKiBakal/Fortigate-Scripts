@@ -1,0 +1,3 @@
+name,value,type,set
+Example_for_subnet,123.123.123.123/32,ipmask,subnet
+Example_for_FQDN,something.domain.com,fqdn,fqdn
